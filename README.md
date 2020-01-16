@@ -1,2 +1,2 @@
 # aribola
-Pinball Project for PAPCS
+Hacking pinball
