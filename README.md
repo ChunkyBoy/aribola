@@ -11,6 +11,8 @@ Move mouse - pinball
 Screwed up tilt function
 Messed with window size
 
+Changed music + sound fx
+
 
 F11, F12, Y, B?
 
